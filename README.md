@@ -1,4 +1,4 @@
-# shitty-ass-fg-novelty-pack
+# shitty ass fg novelty pack
 me when i dont know how to make mods
 v1.0
 
