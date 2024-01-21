@@ -7,5 +7,6 @@ contains:
 - eac splash screens
 - bank files
 
-zip file by @LewanceBoi on twitter
+by @LewanceBoi on twitter
+
 dm me on twitter or discord for help or to report issues
