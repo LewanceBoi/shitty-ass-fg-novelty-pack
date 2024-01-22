@@ -10,4 +10,3 @@ contains:
 
 by @LewanceBoi on twitter
 
-dm me on twitter or discord for help or to report issues
